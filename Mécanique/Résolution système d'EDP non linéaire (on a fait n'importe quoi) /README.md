@@ -14,6 +14,7 @@ Représentation graphique animée du comportement du pendule avec la méthode de
 # [Elargissement du problème par Niko]()
 Niko a eu l'excellente idée de faire bouger le point d'attache du pendule, ce qui amène à de nouvelles équations .
 ## Nouveau modèle
+Niko propose sa théorie
 <img src="https://media.discordapp.net/attachments/1137430071133605939/1176957637988991087/IMG_2626.jpg?ex=6570c237&is=655e4d37&hm=f35782a01812923b64492ea7eb29e598d019a88a598035c6a3fedf404baabd6a&=&format=webp&width=524&height=700" width=50% height=50%>
 <img src="https://media.discordapp.net/attachments/1137430071133605939/1176959583877615666/239479818184294400.png?ex=6570c407&is=655e4f07&hm=e171af35d3a8982cc53f0f6a85e704bac15ffb5c7fd7ddae457d4d6af1bd8477&=&format=webp&width=1439&height=467" width=50% height=50%>
 <img src="https://media.discordapp.net/attachments/1137430071133605939/1176961090962325664/239479818184294400.png?ex=6570c56e&is=655e506e&hm=5037639c8476f20fd210d40bcb7364368ecac484ac4119689200ef87f14fcf53&=&format=webp&width=1439&height=530" width=50% height=50%>
