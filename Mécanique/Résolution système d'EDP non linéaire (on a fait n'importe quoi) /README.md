@@ -4,5 +4,5 @@ Fristoune a proposé dans un [un poste sur le forum discord](https://discord.com
 Des propositions de rendu graphique du problème ont été faites
 
 
-[Représentation graphique de Clever](Résolution graphique - Clever.py)
-<img src = "https://media.discordapp.net/attachments/1137430071133605939/1176502962307211264/animation.gif?ex=656f1ac4&is=655ca5c4&hm=4deadc3e906266b57534b158f30c4b5e9a996ed3c3896bcdb15bd2ee3969f415&=&width=669&height=669"  width=50% height=50%>
+# [Représentation graphique de Clever](https://github.com/Clevyyy/Science-Etonnante-Community-Programs/blob/a371fc135e0d31a837140e86072d87e5c535c13b/M%C3%A9canique/R%C3%A9solution%20syst%C3%A8me%20d'EDP%20non%20lin%C3%A9aire%20(on%20a%20fait%20n'importe%20quoi)%20/R%C3%A9solution%20graphique%20-%20Clever.py)
+![]()
