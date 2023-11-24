@@ -3,7 +3,9 @@ Fristoune a proposé dans un [un poste sur le forum discord](https://discord.com
 
 Des propositions de rendu graphique du problème ont été faites
 # Résolutions numériques
-## [Résolution de Fristoune]()
+## [Résolution de Fristoune](https://github.com/Clevyyy/Science-Etonnante-Community-Programs/blob/66e78e61d3a92e997c6ee58d4b46a7beb15d89cc/M%C3%A9canique/R%C3%A9solution%20syst%C3%A8me%20d'EDP%20non%20lin%C3%A9aire%20(on%20a%20fait%20n'importe%20quoi)%20/R%C3%A9solution%20graphique%20-%20Fristoune)
+Représentation graphique du pendule avec une méthode de résolution avec Scipy
+![](https://media.discordapp.net/attachments/1137430071133605939/1137473144865685616/pendule_elastique.gif?ex=656b8aea&is=655915ea&hm=112449ea3e04620e8525d28aaf0533863632c2563680d69fc00a26587731e23f&=&width=539&height=435)
 
 ## [Représentation graphique de Clever](https://github.com/Clevyyy/Science-Etonnante-Community-Programs/blob/a371fc135e0d31a837140e86072d87e5c535c13b/M%C3%A9canique/R%C3%A9solution%20syst%C3%A8me%20d'EDP%20non%20lin%C3%A9aire%20(on%20a%20fait%20n'importe%20quoi)%20/R%C3%A9solution%20graphique%20-%20Clever.py)
 Représentation graphique animée du comportement du pendule avec la méthode de résolution de Fristoune.
