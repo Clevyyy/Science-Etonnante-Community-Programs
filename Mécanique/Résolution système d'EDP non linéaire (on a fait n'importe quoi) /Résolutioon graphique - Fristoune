@@ -9,7 +9,10 @@ m=5
 l0=0.3
 
 def edp(X,t):
-    dt=np.array([X[3],(-g*np.sin(X[2])-2*X[1]*X[3])/X[0],X[1],X[3]**2*X[0]+g*np.cos(X[2])-k/m*(X[0]-l0)])
+    dt=np.array([X[1],
+                 X[3]**2*X[0]+g*np.cos(X[2])-k/m*(X[0]-l0),
+                 X[3],
+                 (-g*np.sin(X[2])-2*X[1]*X[3])/X[0]])
     return dt
 
 n=500
