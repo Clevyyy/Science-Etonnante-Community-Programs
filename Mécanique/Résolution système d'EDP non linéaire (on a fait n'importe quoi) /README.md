@@ -3,4 +3,6 @@ Fristoune a proposé dans un [un poste sur le forum discord](https://discord.com
 
 Des propositions de rendu graphique du problème ont été faites
 
-Clever
+
+[Représentation graphique de Clever](Résolution graphique - Clever.py)
+<img src = "https://media.discordapp.net/attachments/1137430071133605939/1176502962307211264/animation.gif?ex=656f1ac4&is=655ca5c4&hm=4deadc3e906266b57534b158f30c4b5e9a996ed3c3896bcdb15bd2ee3969f415&=&width=669&height=669"  width=50% height=50%>
