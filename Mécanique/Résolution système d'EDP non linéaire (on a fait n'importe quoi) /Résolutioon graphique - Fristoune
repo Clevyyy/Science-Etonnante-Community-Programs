@@ -1,0 +1,39 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+from scipy.integrate import odeint
+
+g=9.81
+k=1000
+m=5
+l0=0.3
+
+def edp(X,t):
+    dt=np.array([X[3],(-g*np.sin(X[2])-2*X[1]*X[3])/X[0],X[1],X[3]**2*X[0]+g*np.cos(X[2])-k/m*(X[0]-l0)])
+    return dt
+
+n=500
+t=np.linspace(0,5,n)
+
+x0=l0+0.1
+v0=0
+theta0=np.pi/4
+dtheta0=0
+
+X0=np.array([x0,v0,theta0,dtheta0])
+
+res=odeint(edp,X0,t)
+
+# %% plot 
+
+pause=0.0001
+plt.figure()
+for i in range(n):
+    plt.cla()
+    plt.axis([-l0-.5,l0+.5,-l0-.5,.5])
+    a=np.sin(res[i,2])
+    b=-np.cos(res[i,2])
+    plt.plot([a*(l0+res[i,0]),0],[b*(l0+res[i,0]),0],'b')
+    plt.plot(a*(l0+res[i,0]),b*(l0+res[i,0]),'ro',0,0,'.')
+    plt.plot(np.sin(res[:i,2])*(l0+res[:i,0]),-np.cos(res[:i,2])*(l0+res[:i,0]),c='g',linewidth=.5)
+    plt.pause(pause)
