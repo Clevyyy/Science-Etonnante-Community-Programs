@@ -1,3 +1,4 @@
+```math
 # Question 1
 
 Montrons que les équations (1a)-(1c) préservent la propriété que la $N$
@@ -410,3 +411,5 @@ Pour ce qui est de la recherche du maximum de la fonction $T$ pour ce
 gamma, nous avons simplement fait une recherche de racine sur la dérivée
 de $T$ et évalué $T$ en ce point nous donnant la valeur de
 $0.11769980309495666$
+
+```
